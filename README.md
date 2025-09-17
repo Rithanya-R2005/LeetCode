@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
