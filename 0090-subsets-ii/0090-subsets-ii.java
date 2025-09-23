@@ -1,7 +1,9 @@
 class Solution {
-    public void sub(int[] nums,Set<List<Integer>> result,int i,List<Integer> temp){
+    public void sub(int[] nums,List<List<Integer>> result,int i,List<Integer> temp){
         if(i==nums.length){
-            result.add(new ArrayList<>(temp));
+            if(!result.contains(temp)){
+                result.add(new ArrayList<>(temp));
+            }
             return;
         }
         temp.add(nums[i]);
@@ -10,11 +12,10 @@ class Solution {
         sub(nums,result,i+1,temp);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Set<List<Integer>> result=new HashSet<>();
+        List<List<Integer>> result=new ArrayList<>();
         List<Integer> temp=new ArrayList<>();
         Arrays.sort(nums);
         sub(nums,result,0,temp);
-        List<List<Integer>> result2=new ArrayList<>(result);
-        return result2;
+        return result;
     }
 }
