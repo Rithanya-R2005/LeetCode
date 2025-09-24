@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
@@ -65,6 +66,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Rithanya-R2005/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
