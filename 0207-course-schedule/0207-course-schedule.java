@@ -10,18 +10,18 @@ class Solution {
             int a=oned[0];
             int b=oned[1];
             mat[b][a]=1;
-            //indegree[a]++; 
+            indegree[a]++; 
             //without using 2 for loop(below) we can easily calculate indegree
         }
-        for(int i=0;i<numCourses;i++){
-            c=0;
-            for(int j=0;j<numCourses;j++){
-                if(mat[j][i]==1){
-                    c++;
-                }
-            }
-            indegree[i]=c;
-        }
+        // for(int i=0;i<numCourses;i++){
+        //     c=0;
+        //     for(int j=0;j<numCourses;j++){
+        //         if(mat[j][i]==1){
+        //             c++;
+        //         }
+        //     }
+        //     indegree[i]=c;
+        // }
         
         while(count<numCourses){
             found=false;
