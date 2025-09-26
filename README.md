@@ -80,4 +80,20 @@
 | ------- |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rithanya-R2005/LeetCode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rithanya-R2005/LeetCode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rithanya-R2005/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rithanya-R2005/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
