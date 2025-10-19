@@ -17,6 +17,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
+| [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Rithanya-R2005/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0210-course-schedule-ii) |
+## Simulation
+|  |
+| ------- |
+| [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
 <!---LeetCode Topics End-->
