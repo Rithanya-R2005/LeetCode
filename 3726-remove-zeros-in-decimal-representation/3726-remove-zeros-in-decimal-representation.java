@@ -1,13 +1,13 @@
 class Solution {
     public long removeZeros(long n) {
-        String s=String.valueOf(n);
-        String s2="";
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)!='0'){
-                s2+=s.charAt(i);
-            }
+        long i=1,sum=0,rem;
+        while(n>0){
+            rem=n%10;
+            n=n/10;
+            if(rem==0)  continue;
+            sum=sum+i*rem;
+            i*=10;
         }
-        long n2=Long.parseLong(s2);
-        return n2;
+        return sum;
     }
 }
