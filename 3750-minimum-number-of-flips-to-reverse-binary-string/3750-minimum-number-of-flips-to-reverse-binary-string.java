@@ -5,7 +5,7 @@ class Solution {
         while(n>0){
             rem=n%2;
             n/=2;
-            // if(rem==0 && flag==0){
+            // if(rem==0 && flag==0){     //for leading zeros
             //     continue;
             // }
             // else{
@@ -13,15 +13,13 @@ class Solution {
                 s=s+String.valueOf(rem);
             //}
         }
-        StringBuilder s1=new StringBuilder();
-        s1.append(s);
-        s1.reverse();
-        System.out.println(s);
-        System.out.println(s1);
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)!=s1.charAt(i)){
-                count++;
-            }  
+        int i=0,j=s.length()-1;
+        while(i<j){
+            if(s.charAt(i)!=s.charAt(j)){
+                count+=2;
+            } 
+            i++;
+            j--; 
         }
         return count;
     }
