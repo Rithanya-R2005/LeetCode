@@ -16,21 +16,18 @@
 class Solution {
     //HF -- Helper Function
     public void HF(TreeNode root,List<Integer> sum,int p){
+        p=p*10+root.val;
         if(root.left==null && root.right==null){
-            p=p*10+root.val;
             sum.add(p);
             return;
         }
         if(root.left==null && root.right!=null){
-            p=p*10+root.val;
             HF(root.right,sum,p);
         }
         else if(root.right==null && root.left!=null){
-            p=p*10+root.val;
             HF(root.left,sum,p);
         }
         else{
-            p=p*10+root.val;
             HF(root.left,sum,p);
             HF(root.right,sum,p);
         }
