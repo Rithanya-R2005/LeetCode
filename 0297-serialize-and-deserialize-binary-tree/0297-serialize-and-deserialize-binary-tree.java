@@ -8,22 +8,22 @@
  * }
  */
 public class Codec {
-    public void preorder(TreeNode root,StringBuilder sb){
+    //Don't consider previous submission,This sum is level-order traversal.
+    public void HS(TreeNode root,StringBuilder sb){
         if(root==null){
             sb.append("null,");
             return;
         }
         sb.append(Integer.toString(root.val));
         sb.append(",");
-        preorder(root.left,sb);
-        preorder(root.right,sb);
+        HS(root.left,sb);
+        HS(root.right,sb);
     }
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         StringBuilder sb=new StringBuilder();
-        preorder(root,sb);
-        System.out.println(sb);
+        HS(root,sb);
         return sb.toString();
     }
 
