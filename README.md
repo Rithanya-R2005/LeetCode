@@ -17,6 +17,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -75,6 +76,7 @@
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Rithanya-R2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Backtracking
 |  |
@@ -113,6 +115,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
