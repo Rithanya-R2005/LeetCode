@@ -4,6 +4,8 @@ class Solution {
         Arrays.fill(price,Integer.MAX_VALUE);
         price[src]=0;
 
+        
+        // We can relax edges K+1 times (K stops means K+1 flights)
         for(int i=0;i<=k;i++){
             int[] temp=Arrays.copyOf(price,n);
             for(int[] flight : flights){
