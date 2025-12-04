@@ -146,6 +146,7 @@
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rithanya-R2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Tree
 |  |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithanya-R2005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rithanya-R2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
