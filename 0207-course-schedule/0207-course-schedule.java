@@ -1,54 +1,33 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int[][] mat=new int[numCourses][numCourses];
-        int[] indegree=new int[numCourses];
-        int[] visited=new int[numCourses];
-        //int[] result=new int[numCourses];
-        int c=0,m=0,count=0;
-        boolean found=false;
-        for(int[] oned:prerequisites){
-            int a=oned[0];
-            int b=oned[1];
-            mat[b][a]=1;
-            indegree[a]++; 
-            //without using 2 for loop(below) we can easily calculate indegree
+        List<List<Integer>> graph=new ArrayList<>();
+        for(int i=0;i<numCourses;i++){
+            graph.add(new ArrayList<>());
         }
-        // for(int i=0;i<numCourses;i++){
-        //     c=0;
-        //     for(int j=0;j<numCourses;j++){
-        //         if(mat[j][i]==1){
-        //             c++;
-        //         }
-        //     }
-        //     indegree[i]=c;
-        // }
-        
-        while(count<numCourses){
-            found=false;
-            for(int i=0;i<numCourses;i++){
-                if(indegree[i]==0 && visited[i]==0){
-                    //result[m]=i;  Result array contains the resultant topological sorted array.
-                    //m++;
-                    visited[i]=1;
-                    for(int j=0;j<numCourses;j++){
-                        if(mat[i][j]==1){
-                            indegree[j]--;
-                        }
-                    }
-                count++;
-                found=true;
+        int[] indegree=new int[numCourses];
+        for(int[] pre: prerequisites){
+            int c=pre[0];
+            int p=pre[1];
+            graph.get(p).add(c);
+            indegree[c]++;
+        }
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0){
+                q.offer(i);
+            }
+        }
+        int completed=0;
+        while(!q.isEmpty()){
+            int curr=q.poll();
+            completed++;
+            for(int nei:graph.get(curr)){
+                indegree[nei]--;
+                if(indegree[nei]==0){
+                    q.offer(nei);
                 }
             }
-            if(!found)
-                return false; //The graph contains the cyclic path.That is no node with indegree=0.
         }
-
-        // for(int i=0;i<numCourses;i++){
-        //     if(indegree[i]!=0){
-        //         return false;
-        //     }
-        // }
-
-        return true;
+        return completed==numCourses;
     }
 }
