@@ -13,28 +13,25 @@
  *     }
  * }
  */
-class Solution {
+class Solution { //using Recursion
+    List<List<Integer>> res=new ArrayList<>();
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> res=new ArrayList<>();
-        Queue<TreeNode> q=new LinkedList<>();
+        return levelOrder(root,0);
+    }
+    public List<List<Integer>> levelOrder(TreeNode root,int level) {
         if(root==null)
             return res;
-        q.offer(root);
-        while(!q.isEmpty()){
-            int size=q.size();
-            List<Integer> level=new ArrayList<>();
-            while(size-- > 0){
-                TreeNode temp=q.poll();
-                level.add(temp.val);
-                if(temp.left!=null){
-                    q.offer(temp.left);
-                }
-                if(temp.right!=null){
-                    q.offer(temp.right);
-                }
-            }
-            res.add(level);
+        TreeNode leftChild=root.left;
+        TreeNode rightChild=root.right;
+
+        if(level >= res.size()){
+            res.add(new ArrayList<>());
         }
+        res.get(level).add(root.val);
+
+        levelOrder(root.left,level+1);
+        levelOrder(root.right,level+1);
+
         return res;
     }
 }
