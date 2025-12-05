@@ -66,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Rithanya-R2005/LeetCode/tree/master/0198-house-robber) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rithanya-R2005/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithanya-R2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Tree
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rithanya-R2005/LeetCode/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
