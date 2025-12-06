@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rithanya-R2005/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
@@ -53,6 +54,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rithanya-R2005/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Rithanya-R2005/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
