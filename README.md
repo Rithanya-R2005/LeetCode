@@ -160,6 +160,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Rithanya-R2005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rithanya-R2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithanya-R2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Tree
