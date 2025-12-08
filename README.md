@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithanya-R2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rithanya-R2005/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rithanya-R2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0213-house-robber-ii) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithanya-R2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
 ## Counting Sort
@@ -57,6 +59,7 @@
 | [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Rithanya-R2005/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
@@ -80,6 +83,7 @@
 | [0091-decode-ways](https://github.com/Rithanya-R2005/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithanya-R2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rithanya-R2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithanya-R2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -233,4 +237,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rithanya-R2005/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
