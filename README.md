@@ -20,6 +20,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Rithanya-R2005/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
+| [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
@@ -104,6 +105,7 @@
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Rithanya-R2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
+| [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Backtracking
@@ -166,6 +168,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Math
