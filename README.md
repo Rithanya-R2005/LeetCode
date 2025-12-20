@@ -68,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0796-rotate-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0796-rotate-string) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
@@ -262,4 +263,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Rithanya-R2005/LeetCode/tree/master/1925-count-square-sum-triples) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
