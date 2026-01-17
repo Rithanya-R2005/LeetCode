@@ -249,6 +249,7 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
