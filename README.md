@@ -74,6 +74,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Rithanya-R2005/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Rithanya-R2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/3174-clear-digits) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@
 | [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Rithanya-R2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
+| [3174-clear-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/3174-clear-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Math
