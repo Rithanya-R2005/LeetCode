@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
+| [2739-total-distance-traveled](https://github.com/Rithanya-R2005/LeetCode/tree/master/2739-total-distance-traveled) |
 | [3174-clear-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/3174-clear-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
@@ -195,6 +196,7 @@
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rithanya-R2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Rithanya-R2005/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2739-total-distance-traveled](https://github.com/Rithanya-R2005/LeetCode/tree/master/2739-total-distance-traveled) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithanya-R2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Tree
