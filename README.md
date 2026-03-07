@@ -10,6 +10,7 @@
 | [0051-n-queens](https://github.com/Rithanya-R2005/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithanya-R2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
@@ -35,12 +36,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rithanya-R2005/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/Rithanya-R2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
