@@ -30,6 +30,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Rithanya-R2005/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
 | [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
+| [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
 | [2739-total-distance-traveled](https://github.com/Rithanya-R2005/LeetCode/tree/master/2739-total-distance-traveled) |
 | [3174-clear-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/3174-clear-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
