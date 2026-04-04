@@ -30,6 +30,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Rithanya-R2005/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
 | [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -59,6 +60,7 @@
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
+| [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Counting Sort
 |  |
@@ -143,6 +145,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
+| [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
