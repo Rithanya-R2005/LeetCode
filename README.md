@@ -79,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0657-robot-return-to-origin](https://github.com/Rithanya-R2005/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rithanya-R2005/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -192,6 +193,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Rithanya-R2005/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
 | [2739-total-distance-traveled](https://github.com/Rithanya-R2005/LeetCode/tree/master/2739-total-distance-traveled) |
