@@ -204,6 +204,7 @@
 | [0007-reverse-integer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Rithanya-R2005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rithanya-R2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Rithanya-R2005/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2739-total-distance-traveled](https://github.com/Rithanya-R2005/LeetCode/tree/master/2739-total-distance-traveled) |
