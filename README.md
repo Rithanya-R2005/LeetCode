@@ -41,6 +41,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rithanya-R2005/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -77,6 +78,7 @@
 | [0014-longest-common-prefix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/Rithanya-R2005/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
@@ -300,6 +302,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
