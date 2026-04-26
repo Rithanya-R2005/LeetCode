@@ -16,7 +16,7 @@ public class Solution {
         while(temp!=null){
             curr=headB;
             while(curr!=null){
-                if(curr.val==temp.val && curr==temp){ //Check the address aldo
+                if(curr==temp){ //Check the address also
                     return curr;
                 }
                 curr=curr.next;
