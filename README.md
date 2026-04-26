@@ -44,6 +44,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rithanya-R2005/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/Rithanya-R2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
@@ -61,6 +62,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rithanya-R2005/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rithanya-R2005/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Prefix Sum
