@@ -35,6 +35,7 @@
 | [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -136,6 +137,7 @@
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rithanya-R2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -311,4 +315,8 @@
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rithanya-R2005/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
