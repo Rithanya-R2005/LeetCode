@@ -18,6 +18,7 @@
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rithanya-R2005/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rithanya-R2005/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithanya-R2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Rithanya-R2005/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -110,10 +111,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithanya-R2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithanya-R2005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithanya-R2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
@@ -299,6 +302,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Rithanya-R2005/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Trie
 |  |
