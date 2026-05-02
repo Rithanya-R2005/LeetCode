@@ -133,6 +133,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Rithanya-R2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rithanya-R2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/0788-rotated-digits) |
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Rithanya-R2005/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Matrix
@@ -227,6 +228,7 @@
 | [0050-powx-n](https://github.com/Rithanya-R2005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0263-ugly-number) |
+| [0788-rotated-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/0788-rotated-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rithanya-R2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Rithanya-R2005/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2739-total-distance-traveled](https://github.com/Rithanya-R2005/LeetCode/tree/master/2739-total-distance-traveled) |
