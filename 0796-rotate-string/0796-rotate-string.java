@@ -1,26 +1,20 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        if(s.length()!=goal.length()){
-            return false;
-        }
-        if(goal.equals(s)){
+        if(s.equals(goal)){
             return true;
         }
-        int k=s.length();
         int n=s.length();
-        int r=1;
-        while(r<k){
-            String s1="";
-            char[] arr=s.toCharArray();
-            char[] temp=new char[n];
-            for(int i=0;i<n;i++){
-                temp[(i+r)%n]=arr[i];
+        int k=1;
+        char[] temp=s.toCharArray();
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                temp[(j+k)%n]=s.charAt(j);
             }
-            s1=String.valueOf(temp);
-            if(s1.equals(goal)){
+            String temp1=new String(temp);
+            if(temp1.equals(goal)){
                 return true;
             }
-            r+=1;
+            k++;
         }
         return false;
     }
