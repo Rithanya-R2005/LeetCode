@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rithanya-R2005/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
@@ -139,6 +140,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Rithanya-R2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rithanya-R2005/LeetCode/tree/master/0463-island-perimeter) |
@@ -225,6 +227,7 @@
 | [0007-reverse-integer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Rithanya-R2005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rithanya-R2005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0263-ugly-number) |
