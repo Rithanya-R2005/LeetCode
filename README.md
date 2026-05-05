@@ -23,6 +23,7 @@
 | [0213-house-robber-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithanya-R2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Rithanya-R2005/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0396-rotate-function](https://github.com/Rithanya-R2005/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Rithanya-R2005/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
@@ -132,6 +133,7 @@
 | [0198-house-robber](https://github.com/Rithanya-R2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithanya-R2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/Rithanya-R2005/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rithanya-R2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/0788-rotated-digits) |
@@ -231,6 +233,7 @@
 | [0050-powx-n](https://github.com/Rithanya-R2005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0263-ugly-number) |
+| [0396-rotate-function](https://github.com/Rithanya-R2005/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/0788-rotated-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rithanya-R2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Rithanya-R2005/LeetCode/tree/master/1925-count-square-sum-triples) |
