@@ -20,14 +20,14 @@ class Solution {
             curr=temp.next;
             temp.next=temp.next.next;
             curr.next=temp;
-            join=temp;
+            join=temp; //join helps to connect 2nd & 3rd node
             join2.next=curr;
             temp=temp.next;
             if(temp!=null && temp.next!=null){
                 curr=temp.next;
                 temp.next=temp.next.next;
                 curr.next=temp;
-                join2=temp;
+                join2=temp; //join 2 helps to connect 4th and 5th node
                 temp=temp.next;
                 join.next=curr;
             }
