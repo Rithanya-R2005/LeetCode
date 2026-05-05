@@ -37,6 +37,7 @@
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rithanya-R2005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
+| [2574-left-and-right-sum-differences](https://github.com/Rithanya-R2005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Rithanya-R2005/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [2574-left-and-right-sum-differences](https://github.com/Rithanya-R2005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
 |  |
 | ------- |
