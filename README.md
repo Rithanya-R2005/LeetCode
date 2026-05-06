@@ -33,6 +33,7 @@
 | [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
+| [1861-rotating-the-box](https://github.com/Rithanya-R2005/LeetCode/tree/master/1861-rotating-the-box) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Rithanya-R2005/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rithanya-R2005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -53,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rithanya-R2005/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1861-rotating-the-box](https://github.com/Rithanya-R2005/LeetCode/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Rithanya-R2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -151,6 +153,7 @@
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
+| [1861-rotating-the-box](https://github.com/Rithanya-R2005/LeetCode/tree/master/1861-rotating-the-box) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
