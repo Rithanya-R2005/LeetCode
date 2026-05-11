@@ -33,6 +33,7 @@
 | [0994-rotting-oranges](https://github.com/Rithanya-R2005/LeetCode/tree/master/0994-rotting-oranges) |
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
+| [1470-shuffle-the-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1861-rotating-the-box](https://github.com/Rithanya-R2005/LeetCode/tree/master/1861-rotating-the-box) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Rithanya-R2005/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
