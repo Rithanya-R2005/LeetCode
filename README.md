@@ -41,6 +41,7 @@
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rithanya-R2005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rithanya-R2005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rithanya-R2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rithanya-R2005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -71,6 +72,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rithanya-R2005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -369,6 +371,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rithanya-R2005/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rithanya-R2005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rithanya-R2005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Union-Find
 |  |
 | ------- |
