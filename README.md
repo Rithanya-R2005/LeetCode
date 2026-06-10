@@ -49,6 +49,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rithanya-R2005/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Rithanya-R2005/LeetCode/tree/master/3668-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rithanya-R2005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3606-coupon-code-validator](https://github.com/Rithanya-R2005/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3668-restore-finishing-order](https://github.com/Rithanya-R2005/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Counting Sort
 |  |
 | ------- |
