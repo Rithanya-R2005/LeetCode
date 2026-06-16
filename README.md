@@ -65,6 +65,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1861-rotating-the-box](https://github.com/Rithanya-R2005/LeetCode/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Rithanya-R2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rithanya-R2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -345,6 +346,7 @@
 | [0206-reverse-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
