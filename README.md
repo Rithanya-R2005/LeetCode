@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rithanya-R2005/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Rithanya-R2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rithanya-R2005/LeetCode/tree/master/0463-island-perimeter) |
@@ -246,6 +248,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Rithanya-R2005/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [2079-watering-plants](https://github.com/Rithanya-R2005/LeetCode/tree/master/2079-watering-plants) |
