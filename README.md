@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rithanya-R2005/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Rithanya-R2005/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rithanya-R2005/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -393,4 +395,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rithanya-R2005/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Rithanya-R2005/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
