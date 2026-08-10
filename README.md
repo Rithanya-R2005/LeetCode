@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rithanya-R2005/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Rithanya-R2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rithanya-R2005/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rithanya-R2005/LeetCode/tree/master/0057-insert-interval) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rithanya-R2005/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Rithanya-R2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Rithanya-R2005/LeetCode/tree/master/0091-decode-ways) |
@@ -328,6 +330,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithanya-R2005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Rithanya-R2005/LeetCode/tree/master/0053-maximum-subarray) |
 ## Number Theory
 |  |
 | ------- |
