@@ -152,6 +152,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithanya-R2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/Rithanya-R2005/LeetCode/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [0062-unique-paths](https://github.com/Rithanya-R2005/LeetCode/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/Rithanya-R2005/LeetCode/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/Rithanya-R2005/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/0788-rotated-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rithanya-R2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
