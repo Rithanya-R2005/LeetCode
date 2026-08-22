@@ -41,6 +41,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithanya-R2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1861-rotating-the-box](https://github.com/Rithanya-R2005/LeetCode/tree/master/1861-rotating-the-box) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Rithanya-R2005/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithanya-R2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithanya-R2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rithanya-R2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Rithanya-R2005/LeetCode/tree/master/0788-rotated-digits) |
 | [1130-last-stone-weight-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/1130-last-stone-weight-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithanya-R2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Rithanya-R2005/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Matrix
 |  |
