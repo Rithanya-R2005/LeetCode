@@ -33,6 +33,7 @@
 | [0396-rotate-function](https://github.com/Rithanya-R2005/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Rithanya-R2005/LeetCode/tree/master/0463-island-perimeter) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rithanya-R2005/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -93,6 +94,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Rithanya-R2005/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rithanya-R2005/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/1217-relative-sort-array) |
 | [2032-two-out-of-three](https://github.com/Rithanya-R2005/LeetCode/tree/master/2032-two-out-of-three) |
@@ -374,6 +376,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Rithanya-R2005/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithanya-R2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Rithanya-R2005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
 |  |
