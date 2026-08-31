@@ -35,24 +35,12 @@ class Solution {
             temp=temp.next;
         }
         list.add(-1);
-        int start=0,end=list.size()-1;
-        while(start<end){
-            while(list.get(start)==-1 && start<end){
-                start++;
-            }
-            while(list.get(end)==-1 && start<end){
-                end--;
-            }
-            int val=end-start;
-            max=Math.max(max,val);
-            min=Math.min(min,val);
-            break;
-        }
-        int prev=0,found=0;
+        int prev=0,found=0,first=0;
         for(int i=0;i<list.size();i++){
             if(list.get(i)==1 && found==0){
                 found=1;
                 prev=i;
+                first=i;
             }
             else if(list.get(i)==1){
                 int val=i-prev;
@@ -60,6 +48,7 @@ class Solution {
                 prev=i;
             }
         }
+        max=prev-first;
         if(cp_count<2){
             return new int[]{-1,-1};
         }
