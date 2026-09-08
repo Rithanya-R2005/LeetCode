@@ -293,6 +293,7 @@
 | [2739-total-distance-traveled](https://github.com/Rithanya-R2005/LeetCode/tree/master/2739-total-distance-traveled) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithanya-R2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rithanya-R2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3870-count-commas-in-range](https://github.com/Rithanya-R2005/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
 | ------- |
