@@ -19,6 +19,7 @@
 | [0057-insert-interval](https://github.com/Rithanya-R2005/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rithanya-R2005/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rithanya-R2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
@@ -120,6 +121,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithanya-R2005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Rithanya-R2005/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rithanya-R2005/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rithanya-R2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Rithanya-R2005/LeetCode/tree/master/0139-word-break) |
@@ -190,6 +192,7 @@
 | [0048-rotate-image](https://github.com/Rithanya-R2005/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rithanya-R2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Rithanya-R2005/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rithanya-R2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rithanya-R2005/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Rithanya-R2005/LeetCode/tree/master/0695-max-area-of-island) |
@@ -208,6 +211,7 @@
 | [0052-n-queens-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rithanya-R2005/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rithanya-R2005/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rithanya-R2005/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -219,6 +223,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rithanya-R2005/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Rithanya-R2005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithanya-R2005/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rithanya-R2005/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
