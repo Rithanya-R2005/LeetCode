@@ -129,6 +129,7 @@
 | [0657-robot-return-to-origin](https://github.com/Rithanya-R2005/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Rithanya-R2005/LeetCode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithanya-R2005/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rithanya-R2005/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Rithanya-R2005/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithanya-R2005/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithanya-R2005/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Rithanya-R2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -416,6 +418,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Rithanya-R2005/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithanya-R2005/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rithanya-R2005/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rithanya-R2005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rithanya-R2005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -431,4 +434,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rithanya-R2005/LeetCode/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rithanya-R2005/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
